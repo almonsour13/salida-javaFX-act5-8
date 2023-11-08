@@ -1,6 +1,6 @@
 # salida-javaFX-act5-8
-System Integration & Architecture
-
+System Integration & Architectur
+member:salida, tagud, ganibe
 -lightmode
 ![Screenshot (26)](https://github.com/almonsour13/salida-javaFX-act5-8/assets/126156174/5bfb9b2d-fbbc-44de-a07b-ff67182f80c3)
 -Darkmode
